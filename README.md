@@ -1,1 +1,8 @@
-# Sensoring_voltage_and_Current_Use_Cancus_Communication
+# Cancus Communication demo
+  此專題主要是要練習裝置間的訊息傳輸，總共有四個裝置(利用Arduino&Can模組)
+  1. 量測電壓電流的裝置A
+  2. 量測溫度的裝置B
+  3. 接收裝置A和B的裝置C
+  4. 將裝置C的資料傳送到電腦端的C#程式介面將其顯示
+  
+  C#這邊還有許多要做修改的地方，故暫時未放上來
