@@ -1,4 +1,4 @@
-# Cancus Communication demo
+# Canbus Communication demo
   此專題主要是要練習裝置間的訊息傳輸，總共有四個裝置(利用Arduino&Can模組)
   1. 量測電壓電流的裝置A
   2. 量測溫度的裝置B
